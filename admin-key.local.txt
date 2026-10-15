@@ -1,0 +1,7 @@
+Nexus Admin – PRIVATER Schlüssel (ECDSA P-256)
+================================================
+Niemals ins Repository, niemals in einen Chat.
+
+In der App laden:  ⚙️  →  „🛡 Admin-Schlüssel laden“  →  die JSON-Zeile einfügen.
+
+{"kty":"EC","x":"IadfyWQtD8snPFtNyKNmQHn3GpWG-pKa4k7PlSuzSiw","y":"dpVnCVPte48-HlEQ1xyxsAws-mYtrrEQrSbduiN7Bxo","crv":"P-256","d":"nZEFLsI2wNcnHHsmL8FwwKysuWorRMSvQ33ZudHe8kM"}
